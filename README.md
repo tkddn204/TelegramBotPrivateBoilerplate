@@ -1,6 +1,6 @@
-# telegram_bot_private_template
+# telegram_bot_private_Boilerplate
 
-This project is private template, but source was forked https://github.com/lukaville/create-event-bot.
+This project is private boilerplate, but source was forked https://github.com/lukaville/create-event-bot.
 
 # Install
 1. `virtualenv -p python3 env`
